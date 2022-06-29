@@ -202,7 +202,7 @@
 
 		let graphv = [];
 		
-		graphv[0] = ['&bull; RAP TEMEF (*DDI)', 0];
+		graphv[0] = ['&bull; RAP TEMEF (*DDI)', 35];
 		graphv[1] = ['&bull; Dashboard Laba Rugi SC (*DDI)', 25];
 		graphv[2] = ['&bull; Dashboard Laba Rugi TEMEF (*DDI)', 25,];
 		graphv[3] = ['&bull; Revisi TTD TEMEF (*EDH)', 100,];
