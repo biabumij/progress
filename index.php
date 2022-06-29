@@ -202,11 +202,11 @@
 
 		let graphv = [];
 		
-		graphv[0] = ['&bull; Revisi TTD TEMEF (*EDH)', 0,];
-		graphv[1] = ['&bull; Revisi TTD SC (*RIF)', 0];
-		graphv[2] = ['&bull; RAP TEMEF (*DDI)', 0];
-		graphv[3] = ['&bull; Dashboard Laba Rugi SC (*DDI)', 25];
-		graphv[4] = ['&bull; Dashboard Laba Rugi TEMEF (*DDI)', 25,];
+		graphv[0] = ['&bull; RAP TEMEF (*DDI)', 0];
+		graphv[1] = ['&bull; Dashboard Laba Rugi SC (*DDI)', 25];
+		graphv[2] = ['&bull; Dashboard Laba Rugi TEMEF (*DDI)', 25,];
+		graphv[3] = ['&bull; Revisi TTD TEMEF (*EDH)', 100,];
+		graphv[4] = ['&bull; Revisi TTD SC (*RIF)', 100];
 		graphv[5] = ['&bull; Pembuatan Menu Pergerakan Bahan Jadi (Stok) & Evaluasi (*DDI)', 100,];
 		graphv[6] = ['&bull; Install GIT Server (*BAY)', 100];
 		graphv[7] = ['&bull; Revisi Pergerakan Bahan Jadi SC (*DDI)', 100,];
