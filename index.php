@@ -203,19 +203,18 @@
 		let graphv = [];
 		
 		graphv[0] = ['&bull; RAP TEMEF (*DDI)', 35];
-		graphv[1] = ['&bull; Perbaikan Input & Output Stock Opname TEMEF (*EDH)', 35];
-		graphv[2] = ['&bull; Dashboard Laba Rugi SC (*DDI)', 25];
-		graphv[3] = ['&bull; Dashboard Laba Rugi TEMEF (*DDI)', 25,];
-		graphv[4] = ['&bull; Revisi TTD TEMEF (*EDH)', 100,];
-		graphv[5] = ['&bull; Revisi TTD SC (*RIF)', 100];
-		graphv[6] = ['&bull; Pembuatan Menu Pergerakan Bahan Jadi (Stok) & Evaluasi (*DDI)', 100,];
-		graphv[7] = ['&bull; Install GIT Server (*BAY)', 100];
-		graphv[8] = ['&bull; Revisi Pergerakan Bahan Jadi SC (*DDI)', 100,];
-		graphv[9] = ['&bull; Perbaikan Judul Pemakaian Alat & Output Biaya TEMEF (*EDH)', 100,];
-		graphv[10] = ['&bull; Perbaikan Judul Biaya & TTD TEMEF (*DBI)', 100,];
-		graphv[11] = ['&bull; Import Database SC to jurnal.id (*DDI)', 100];
-		graphv[12] = ['&bull; Tanda Warning jika (Minus) TEMEF (*DDI)', 100];
-		graphv[13] = ['&bull; Tanda Warning jika (Minus) SC (*DDI)', 100];
+		graphv[1] = ['&bull; Dashboard Laba Rugi SC (*DDI)', 25];
+		graphv[2] = ['&bull; Dashboard Laba Rugi TEMEF (*DDI)', 25,];
+		graphv[3] = ['&bull; Revisi TTD TEMEF (*EDH)', 100,];
+		graphv[4] = ['&bull; Revisi TTD SC (*RIF)', 100];
+		graphv[5] = ['&bull; Pembuatan Menu Pergerakan Bahan Jadi (Stok) & Evaluasi (*DDI)', 100,];
+		graphv[6] = ['&bull; Install GIT Server (*BAY)', 100];
+		graphv[7] = ['&bull; Revisi Pergerakan Bahan Jadi SC (*DDI)', 100,];
+		graphv[8] = ['&bull; Perbaikan Judul Pemakaian Alat & Output Biaya TEMEF (*EDH)', 100,];
+		graphv[9] = ['&bull; Perbaikan Judul Biaya & TTD TEMEF (*DBI)', 100,];
+		graphv[10] = ['&bull; Import Database SC to jurnal.id (*DDI)', 100];
+		graphv[11] = ['&bull; Tanda Warning jika (Minus) TEMEF (*DDI)', 100];
+		graphv[12] = ['&bull; Tanda Warning jika (Minus) SC (*DDI)', 100];
 
 		
 
