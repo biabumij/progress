@@ -127,6 +127,7 @@
 				</b>
 			</h3>
 		</center>
+		<br />
 		<div id="monitoring"></div>
 		<span></span>
 		<div class="flex-col-c p-t-50 p-b-50">
