@@ -202,7 +202,7 @@
 
 		let graphv = [];
 		
-		graphv[0] = ['&bull; SC - Perbaikan Laporan Laba Rugi (*VIC)', 0];
+		graphv[0] = ['&bull; SC - Perubahan BBM Solar Laporan Laba Rugi (*VIC)', 0];
 		graphv[1] = ['&bull; SC & TEMEF - Perbaikan Query SQL Lap. Sales Order, Pesanan Pembelian, Daftar Tagihan', 80];
 		graphv[2] = ['&bull; TEMEF - RAP', 15];
 		graphv[3] = ['&bull; TEMEF - Pembuatan Menu Pergerakan Bahan Jadi (Stok) & Evaluasi', 80,];
