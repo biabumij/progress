@@ -206,12 +206,12 @@
 		graphv[1] = ['&bull; Pembuatan Menu Pergerakan Bahan Jadi (Stok) & Evaluasi', 80,];
 		graphv[2] = ['&bull; Dashboard Laba Rugi SC', 25];
 		graphv[3] = ['&bull; Dashboard Laba Rugi TEMEF', 25,];
-		graphv[4] = ['&bull; Revisi TTD TEMEF (*EDH)', 100,];
+		graphv[4] = ['&bull; Revisi TTD TEMEF (*END)', 100,];
 		graphv[5] = ['&bull; Revisi TTD SC (*RIF)', 100];
 		graphv[6] = ['&bull; Revisi Pergerakan Bahan Jadi SC, Jika Tidak Ada Produksi', 100,];
-		graphv[7] = ['&bull; Perbaikan Judul Pemakaian Alat & Output Biaya TEMEF (*EDH)', 100,];
-		graphv[8] = ['&bull; Perbaikan Judul Biaya & TTD TEMEF (*DBI)', 100,];
-		graphv[9] = ['&bull; Import Database SC to jurnal.id', 100];
+		graphv[7] = ['&bull; Perbaikan Judul Pemakaian Alat & Output Biaya TEMEF (*END)', 100,];
+		graphv[8] = ['&bull; Perbaikan Judul Biaya & TTD TEMEF (*DEB)', 100,];
+		graphv[9] = ['&bull; Import Database SC to jurnal.id (*DEB)', 100];
 		graphv[10] = ['&bull; Tanda Warning jika (Minus) TEMEF', 100];
 		graphv[11] = ['&bull; Tanda Warning jika (Minus) SC', 100];
 
