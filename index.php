@@ -204,20 +204,19 @@
 		
 		graphv[0] = ['&bull; SC - Perubahan BBM Solar Laporan Laba Rugi (*VIC)', 0];
 		graphv[1] = ['&bull; TEMEF - Pemindahan Surat Jalan Penjualan (*EDH)', 0];
-		graphv[2] = ['&bull; TEMEF - Perbaikan Rumus & Nama Evaluasi Pergerakan Bahan Jadi (*EDH)', 0];
-		graphv[3] = ['&bull; SC & TEMEF - Perbaikan Query SQL Lap. Sales Order, Pesanan Pembelian, Daftar Tagihan', 80];
-		graphv[4] = ['&bull; TEMEF - RAP', 15];
-		graphv[5] = ['&bull; TEMEF - Pembuatan Menu Pergerakan Bahan Jadi (Stok) & Evaluasi', 80,];
-		graphv[6] = ['&bull; SC - Pembuatan Grafik Dashboard Harga Jual - Bahan Jadi', 100];
-		graphv[7] = ['&bull; SC & TEMEF - Perbaikan Query SQL Laporan Hutang & Piutang', 100];
-		graphv[8] = ['&bull; SC & TEMEF - Grafik Dashboard Laba Rugi', 100,];
-		graphv[9] = ['&bull; TEMEF - Revisi TTD TEMEF (*END)', 100,];
-		graphv[10] = ['&bull; SC - Revisi TTD SC (*RIF)', 100];
-		graphv[11] = ['&bull; SC - Revisi Pergerakan Bahan Jadi SC, Jika Tidak Ada Produksi', 100,];
-		graphv[12] = ['&bull; TEMEF - Perbaikan Judul Pemakaian Alat & Output Biaya (*END)', 100,];
-		graphv[13] = ['&bull; TEMEF - Perbaikan Judul Biaya & TTD (*DEB)', 100,];
-		graphv[14] = ['&bull; SC - Import Database SC to jurnal.id (*DEB)', 100];
-		graphv[15] = ['&bull; SC & TEMEF - Tanda Warning jika (Minus)', 100];
+		graphv[2] = ['&bull; SC & TEMEF - Perbaikan Query SQL Lap. Sales Order, Pesanan Pembelian, Daftar Tagihan', 80];
+		graphv[3] = ['&bull; TEMEF - RAP', 15];
+		graphv[4] = ['&bull; TEMEF - Pembuatan Menu Pergerakan Bahan Jadi (Stok) & Evaluasi', 80,];
+		graphv[5] = ['&bull; SC - Pembuatan Grafik Dashboard Harga Jual - Bahan Jadi', 100];
+		graphv[6] = ['&bull; SC & TEMEF - Perbaikan Query SQL Laporan Hutang & Piutang', 100];
+		graphv[7] = ['&bull; SC & TEMEF - Grafik Dashboard Laba Rugi', 100,];
+		graphv[8] = ['&bull; TEMEF - Revisi TTD TEMEF (*END)', 100,];
+		graphv[9] = ['&bull; SC - Revisi TTD SC (*RIF)', 100];
+		graphv[10] = ['&bull; SC - Revisi Pergerakan Bahan Jadi SC, Jika Tidak Ada Produksi', 100,];
+		graphv[11] = ['&bull; TEMEF - Perbaikan Judul Pemakaian Alat & Output Biaya (*END)', 100,];
+		graphv[12] = ['&bull; TEMEF - Perbaikan Judul Biaya & TTD (*DEB)', 100,];
+		graphv[13] = ['&bull; SC - Import Database SC to jurnal.id (*DEB)', 100];
+		graphv[14] = ['&bull; SC & TEMEF - Tanda Warning jika (Minus)', 100];
 
 		
 
