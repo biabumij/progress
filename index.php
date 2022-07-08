@@ -212,8 +212,8 @@
 		graphv[6] = ['&bull; SC - Pembuatan Grafik Dashboard Harga Jual - Bahan Jadi', 100];
 		graphv[7] = ['&bull; SC & TEMEF - Perbaikan Query SQL Laporan Hutang & Piutang', 100];
 		graphv[8] = ['&bull; SC & TEMEF - Grafik Dashboard Laba Rugi', 100,];
-		graphv[9] = ['&bull; TEMEF - Revisi TTD TEMEF (*END) - 13/PPS/VI/2022', 100,];
-		graphv[10] = ['&bull; SC - Revisi TTD SC (*RIF) -  031/BBJ/SC-KEU/06/2021', 100];
+		graphv[9] = ['&bull; SC - Revisi TTD SC (*RIF) -  031/BBJ/SC-KEU/06/2021', 100];
+		graphv[10] = ['&bull; TEMEF - Revisi TTD TEMEF (*END) - 13/PPS/VI/2022', 100,];
 		graphv[11] = ['&bull; SC - Revisi Pergerakan Bahan Jadi SC, Jika Tidak Ada Produksi', 100,];
 		graphv[12] = ['&bull; TEMEF - Perbaikan Judul Biaya & TTD (*DEB) - 12/PPS/VI/2022', 100,];
 		graphv[13] = ['&bull; TEMEF - Perbaikan Judul Pemakaian Alat & Output Biaya (*END) - 08/PPS/V/2022', 100,];
