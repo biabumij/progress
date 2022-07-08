@@ -205,7 +205,7 @@
 		
 		graphv[0] = ['&bull; SC - Perubahan Letak BBM Solar BPP (*VIC) - 007/PPS/VII/2022', 0];
 		graphv[1] = ['&bull; TEMEF - Pemindahan Surat Jalan Penjualan (*END) - 15/PPS/VII/2022', 0];
-		graphv[2] = ['&bull; TEMEF - Perbaikan Query SQL Pergerakan Bahan Baku', 100];
+		graphv[2] = ['&bull; TEMEF - Perbaikan Query SQL Pergerakan Bahan Baku, Persedian, Pemakaian, Evaluasi', 100];
 		graphv[3] = ['&bull; SC & TEMEF - Perbaikan Query SQL Lap. Sales Order, Pesanan Pembelian, Daftar Tagihan', 100];
 		graphv[4] = ['&bull; TEMEF - RAP', 15];
 		graphv[5] = ['&bull; TEMEF - Pembuatan Menu Pergerakan Bahan Jadi (Stok) & Evaluasi', 80,];
