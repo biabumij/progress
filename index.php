@@ -203,24 +203,25 @@
 
 		let graphv = [];
 		
-		graphv[0] = ['&bull; SC - Pembuatan Grafik Dashboard Nilai Persediaan Bahan Jadi', 0];
-		graphv[1] = ['&bull; TEMEF - Pembuatan Grafik Dashboard Evaluasi Pemakaian Bahan Baku & Alat', 0];
-		graphv[2] = ['&bull; SC - Perubahan Letak BBM Solar BPP (*VIC) - 007/PPS/VII/2022', 100];
-		graphv[3] = ['&bull; TEMEF - Pemindahan Surat Jalan Penjualan (*END) - 15/PPS/VII/2022', 100];
-		graphv[4] = ['&bull; TEMEF - Perbaikan Query SQL Pergerakan Bahan Baku, Persedian, Pemakaian, Evaluasi', 100];
-		graphv[5] = ['&bull; SC & TEMEF - Perbaikan Query SQL Lap. Sales Order, Pesanan Pembelian, Daftar Tagihan', 100];
-		graphv[6] = ['&bull; TEMEF - RAP', 0];
-		graphv[7] = ['&bull; TEMEF - Pembuatan Menu Pergerakan Bahan Jadi (Stok) & Evaluasi', 100,];
-		graphv[8] = ['&bull; SC - Pembuatan Grafik Dashboard Harga Jual - Bahan Jadi', 100];
-		graphv[9] = ['&bull; SC & TEMEF - Perbaikan Query SQL Laporan Hutang & Piutang', 100];
-		graphv[10] = ['&bull; SC & TEMEF - Grafik Dashboard Laba Rugi', 100,];
-		graphv[11] = ['&bull; SC - Revisi TTD SC (*RIF) -  031/BBJ/SC-KEU/06/2021', 100];
-		graphv[12] = ['&bull; TEMEF - Revisi TTD TEMEF (*END) - 13/PPS/VI/2022', 100,];
-		graphv[13] = ['&bull; SC - Revisi Pergerakan Bahan Jadi SC, Jika Tidak Ada Produksi', 100,];
-		graphv[14] = ['&bull; TEMEF - Perbaikan Judul Biaya & TTD (*DEB) - 12/PPS/VI/2022', 100,];
-		graphv[15] = ['&bull; TEMEF - Perbaikan Judul Pemakaian Alat & Output Biaya (*END) - 08/PPS/V/2022', 100,];
-		graphv[16] = ['&bull; SC - Import Database SC to jurnal.id (*DEB)', 100];
-		graphv[17] = ['&bull; SC & TEMEF - Tanda Warning jika (Minus)', 100];
+		graphv[0] = ['&bull; SC & TEMEF - Penambahan Nilai Persediaan Barang di Laba Rugi', 0];
+		graphv[1] = ['&bull; SC - Pembuatan Tabel Dashboard Nilai Persediaan Bahan Jadi', 0];
+		graphv[2] = ['&bull; TEMEF - Pembuatan Grafik Dashboard Evaluasi Pemakaian Bahan Baku & Alat', 0];
+		graphv[3] = ['&bull; SC - Perubahan Letak BBM Solar BPP (*VIC) - 007/PPS/VII/2022', 100];
+		graphv[4] = ['&bull; TEMEF - Pemindahan Surat Jalan Penjualan (*END) - 15/PPS/VII/2022', 100];
+		graphv[5] = ['&bull; TEMEF - Perbaikan Query SQL Pergerakan Bahan Baku, Persedian, Pemakaian, Evaluasi', 100];
+		graphv[6] = ['&bull; SC & TEMEF - Perbaikan Query SQL Lap. Sales Order, Pesanan Pembelian, Daftar Tagihan', 100];
+		graphv[7] = ['&bull; TEMEF - RAP', 0];
+		graphv[8] = ['&bull; TEMEF - Pembuatan Menu Pergerakan Bahan Jadi (Stok) & Evaluasi', 100,];
+		graphv[9] = ['&bull; SC - Pembuatan Grafik Dashboard Harga Jual - Bahan Jadi', 100];
+		graphv[10] = ['&bull; SC & TEMEF - Perbaikan Query SQL Laporan Hutang & Piutang', 100];
+		graphv[11] = ['&bull; SC & TEMEF - Grafik Dashboard Laba Rugi', 100,];
+		graphv[12] = ['&bull; SC - Revisi TTD SC (*RIF) -  031/BBJ/SC-KEU/06/2021', 100];
+		graphv[13] = ['&bull; TEMEF - Revisi TTD TEMEF (*END) - 13/PPS/VI/2022', 100,];
+		graphv[14] = ['&bull; SC - Revisi Pergerakan Bahan Jadi SC, Jika Tidak Ada Produksi', 100,];
+		graphv[15] = ['&bull; TEMEF - Perbaikan Judul Biaya & TTD (*DEB) - 12/PPS/VI/2022', 100,];
+		graphv[16] = ['&bull; TEMEF - Perbaikan Judul Pemakaian Alat & Output Biaya (*END) - 08/PPS/V/2022', 100,];
+		graphv[17] = ['&bull; SC - Import Database SC to jurnal.id (*DEB)', 100];
+		graphv[18] = ['&bull; SC & TEMEF - Tanda Warning jika (Minus)', 100];
 
 		
 
