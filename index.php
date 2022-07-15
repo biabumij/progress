@@ -203,9 +203,11 @@
 
 		let graphv = [];
 		
-		graphv[21] = ['&bull; TEMEF - Perubahan Nomor Sales Order (EDH) - 19/PPS/VII/2022', 100];
-		graphv[20] = ['&bull; TEMEF - Penambahan Menu Edit Komposisi (EDH) - 18/PPS/VII/2022', 0];
-		graphv[19] = ['&bull; SC & TEMEF - Penambahan Nilai Persediaan Barang di Laba Rugi', 0];
+		graphv[23] = ['&bull; SC & TEMEF - Pembuatan TTD Form Otomatis by User', 0];
+		graphv[22] = ['&bull; TEMEF - Perubahan Format TTD (DEB) - 20/PPS/VII/2022', 100];
+		graphv[21] = ['&bull; TEMEF - Perubahan Format TTD (DEB) - 20/PPS/VII/2022', 100];
+		graphv[20] = ['&bull; TEMEF - Perubahan Nomor Sales Order (EDH) - 19/PPS/VII/2022', 100];
+		graphv[19] = ['&bull; TEMEF - Penambahan Menu Edit Komposisi (EDH) - 18/PPS/VII/2022', 100];
 		graphv[18] = ['&bull; TEMEF - Revisi TTD Jurnal Umum (DEB) - 17/PPS/VII/2022', 100];
 		graphv[17] = ['&bull; SC - Pembuatan Menu Laporan Pengiriman Penjualan Produk', 100];
 		graphv[16] = ['&bull; SC & TEMEF - Pembuatan Grafik & Tabel Dashboard', 100];
