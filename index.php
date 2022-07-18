@@ -203,7 +203,6 @@
 
 		let graphv = [];
 		
-		graphv[23] = ['&bull; SC & TEMEF - Pembuatan TTD Form Otomatis by User', 0];
 		graphv[22] = ['&bull; TEMEF - Perubahan Format TTD (DEB) - 20/PPS/VII/2022', 100];
 		graphv[21] = ['&bull; TEMEF - Perubahan Format TTD (DEB) - 20/PPS/VII/2022', 100];
 		graphv[20] = ['&bull; TEMEF - Perubahan Nomor Sales Order (EDH) - 19/PPS/VII/2022', 100];
